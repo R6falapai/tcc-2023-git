@@ -1,16 +1,16 @@
-* Tcc
-** Estoque online
+# Tcc
+## Estoque online
 
-*** Objetivo
+### Objetivo
 
-# Realizar um projeto web utilizando a linguagem python, para trabalhar na solução de uma loja que enfrenta problemas com, 
-# estoque e também com clientes, os problemas enfrentados hj pela loja se baseia em não saber a quantidade de estoque do seus produtos,
-# no tempo de resposta para o cliente acerca do tempo de entraga dos aparelhos que são enviados pelos clientes para manutenção, onde
-# o técnico responsavel pela manutenção tem um periodo para effetuar os teste e identificar qual componente está danificado e também no
-# tempo para estipular a entrega final do equipamento sendo assim o problema recorente na demanda de entrega e também no controle dos 
-# equipamento do cliente e os equipamentos da loja.
-# Observando esse problema também foi possivel identificar que não exite um controle dos cliente, nem mesmo nos items que eles mais compram, tambem não tem um controle sobre quem é um cliente positivo e quem não é, sendo assim um problema onde não se sabe o real lucro da loja gerando assim um problema para o crescimento e para a permanência dessa loja no mercado, não tendo uma anlise de dados sobre o que está acontecendo nessa loja.
-# Com base nisso o presente projeto visa construir uma Página Web para:
+Realizar um projeto web utilizando a linguagem python, para trabalhar na solução de uma loja que enfrenta problemas com, 
+estoque e também com clientes, os problemas enfrentados hj pela loja se baseia em não saber a quantidade de estoque do seus produtos,
+no tempo de resposta para o cliente acerca do tempo de entraga dos aparelhos que são enviados pelos clientes para manutenção, onde
+o técnico responsavel pela manutenção tem um periodo para effetuar os teste e identificar qual componente está danificado e também no
+tempo para estipular a entrega final do equipamento sendo assim o problema recorente na demanda de entrega e também no controle dos 
+equipamento do cliente e os equipamentos da loja.
+Observando esse problema também foi possivel identificar que não exite um controle dos cliente, nem mesmo nos items que eles mais compram, tambem não tem um controle sobre quem é um cliente positivo e quem não é, sendo assim um problema onde não se sabe o real lucro da loja gerando assim um problema para o crescimento e para a permanência dessa loja no mercado, não tendo uma anlise de dados sobre o que está acontecendo nessa loja.
+Com base nisso o presente projeto visa construir uma Página Web para:
     - Auxiliar no Cadastro de Cliente
     - Cadastro de Produtos
     - Cadastro de Marcas
