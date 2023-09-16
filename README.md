@@ -19,7 +19,9 @@ Com base nisso o presente projeto visa construir uma Página Web para:
     - mostrar quem são seus cliente positivos e negativos
     - com base nessa descoberta de clientes positivos e negativos gerar email de alerta automatico informando ao devedor o valor de defice
     - e para o positivo email com promoções especiais para clientes positivos
-    - no cadastro de produtos e componentes, realizar um processo de automação para quando o estoque de um produto X chegar a um valor minimo, realizar a abertura de um formulario onde o proprietario podera efetuar a compra do produto enviando um email automatico para o fornecedor.
+    - no cadastro de produtos e componentes, realizar um processo de automação para quando o estoque de um produto X chegar 
+    a um valor minimo, realizar a abertura de um formulario onde o proprietario podera efetuar a 
+    compra do produto enviando um email automatico para o fornecedor.
     - também é uma ideia realizar o envio automatico do orçamento do produto do cliente com que foi trazido para manutenção, informando
 
         - Prazo de Entraga
@@ -27,7 +29,7 @@ Com base nisso o presente projeto visa construir uma Página Web para:
         - Possivel defeito
         - Peças a ser trocado
         - e se o Cliente aceita a manutenção ou não
-        
+
     e a partir do aceite do cliente a manutenção pode ser realizada, caso o cliente não aceite em um certo periodo, será feito o envio de alerta para o cliente de devolução do produto caso ele não aceite efetuar a manutenção.
 
 
