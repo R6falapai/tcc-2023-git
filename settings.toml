@@ -1,0 +1,16 @@
+[default]
+DEBUG = false
+FLASK_ADMIN_SWATCH = "Cyborg"
+
+[development]
+DEBUG = true
+SECRET_KEY = '\xd9\x99\xa7)\xd8e\xd0R\x03Ww\xe4K\xd1\x17'
+SQLALCHEMY_DATABASE_URI = "sqlite:///estoque.db"
+SQLALCHEMY_TRACK_MODIFICATIONS = false
+DEBUG_TB_TEMPLATE_EDITOR_ENABLED = true
+DEBUG_TB_PROFILER_ENABLED = true
+DEBUG_TB_INTERCEPT_REDIRECTS = false
+ 
+[production]
+SQLALCHEMY_TRACK_MODIFICATIONS = false
+SQLALCHEMY_DATABASE_URI = "mysql://...."
