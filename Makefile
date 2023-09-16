@@ -33,8 +33,3 @@ format:
 run:
 	FLASK_APP=estoque/app.py FLASK_DEBUG=True flask run
 	
-		
-
-
-
-

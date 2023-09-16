@@ -30,7 +30,38 @@ Com base nisso o presente projeto visa construir uma Página Web para:
         - Peças a ser trocado
         - e se o Cliente aceita a manutenção ou não
 
-    e a partir do aceite do cliente a manutenção pode ser realizada, caso o cliente não aceite em um certo periodo, será feito o envio de alerta para o cliente de devolução do produto caso ele não aceite efetuar a manutenção.
+    e a partir do aceite do cliente a manutenção pode ser realizada, caso o cliente não aceite em um certo periodo, 
+    será feito o envio de alerta para o cliente de devolução do produto caso ele não aceite efetuar a manutenção.
 
+## Possiveis Ferramentas para o desenvolvimento do projeto
+- Linguagem python
+- Biblioteca de Uso Geral:
+    - flask
+    - flask-sqlalchemy
+    - flask-migrate
+    - flask-admin
+
+- Biblioteca de Uso no Desenvolvimento
+    - black 
+    - flake8 
+    - flask-debugtoolbar
+    - flask-shell-ipython 
+    - ipdb 
+    - ipython
+    - isort
+    - pytest
+    - pytest-flask
+    - pytest-cov
+    - pytest-xdist
+
+- biblioteca pandas
+- biblioteca numpy
+- biblioteca ploty dash
+- blueprints
+- migrations
+- html
+- css
+- bootstratp
+- banco de dados relacional "(mariaDB, Sqlite, Postgre)"
 
 
