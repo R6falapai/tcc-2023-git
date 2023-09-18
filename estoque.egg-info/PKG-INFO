@@ -2,11 +2,20 @@ Metadata-Version: 2.1
 Name: estoque
 Version: 0.1.0
 Summary: Aplicativo de estoque online
-Home-page: UNKNOWN
-License: UNKNOWN
-Platform: UNKNOWN
-Provides-Extra: dev
 License-File: LICENSE
-
-UNKNOWN
-
+Requires-Dist: flask
+Requires-Dist: flask-sqlalchemy
+Requires-Dist: flask-migrate
+Requires-Dist: flask-admin
+Provides-Extra: dev
+Requires-Dist: black; extra == "dev"
+Requires-Dist: flake8; extra == "dev"
+Requires-Dist: flask-debugtoolbar; extra == "dev"
+Requires-Dist: flask-shell-ipython; extra == "dev"
+Requires-Dist: ipdb; extra == "dev"
+Requires-Dist: ipython; extra == "dev"
+Requires-Dist: isort; extra == "dev"
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-flask; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"
+Requires-Dist: pytest-xdist; extra == "dev"
